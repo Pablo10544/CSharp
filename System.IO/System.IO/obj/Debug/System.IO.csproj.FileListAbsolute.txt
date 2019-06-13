@@ -1,0 +1,9 @@
+C:\Users\AlunoLU\Desktop\System.IO\System.IO\bin\Debug\System.IO.exe.config
+E:\System.IO\System.IO\bin\Debug\System.IO.exe.config
+E:\System.IO\System.IO\bin\Debug\System.IO.exe
+E:\System.IO\System.IO\bin\Debug\System.IO.pdb
+E:\System.IO\System.IO\obj\Debug\System.IO.csprojResolveAssemblyReference.cache
+E:\System.IO\System.IO\obj\Debug\System.IO.Properties.Resources.resources
+E:\System.IO\System.IO\obj\Debug\System.IO.csproj.GenerateResource.Cache
+E:\System.IO\System.IO\obj\Debug\System.IO.exe
+E:\System.IO\System.IO\obj\Debug\System.IO.pdb
