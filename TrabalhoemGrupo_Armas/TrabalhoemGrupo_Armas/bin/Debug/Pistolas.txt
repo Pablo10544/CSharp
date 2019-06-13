@@ -1,0 +1,2 @@
+aa|Pistola|50|20
+desert|Pistola|50|20

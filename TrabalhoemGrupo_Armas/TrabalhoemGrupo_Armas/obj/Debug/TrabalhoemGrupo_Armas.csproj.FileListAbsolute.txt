@@ -1,0 +1,9 @@
+E:\C#\Forms\TrabalhoemGrupo_Armas\TrabalhoemGrupo_Armas\bin\Debug\TrabalhoemGrupo_Armas.exe.config
+E:\C#\Forms\TrabalhoemGrupo_Armas\TrabalhoemGrupo_Armas\bin\Debug\TrabalhoemGrupo_Armas.exe
+E:\C#\Forms\TrabalhoemGrupo_Armas\TrabalhoemGrupo_Armas\bin\Debug\TrabalhoemGrupo_Armas.pdb
+E:\C#\Forms\TrabalhoemGrupo_Armas\TrabalhoemGrupo_Armas\obj\Debug\TrabalhoemGrupo_Armas.csprojResolveAssemblyReference.cache
+E:\C#\Forms\TrabalhoemGrupo_Armas\TrabalhoemGrupo_Armas\obj\Debug\TrabalhoemGrupo_Armas.Form1.resources
+E:\C#\Forms\TrabalhoemGrupo_Armas\TrabalhoemGrupo_Armas\obj\Debug\TrabalhoemGrupo_Armas.Properties.Resources.resources
+E:\C#\Forms\TrabalhoemGrupo_Armas\TrabalhoemGrupo_Armas\obj\Debug\TrabalhoemGrupo_Armas.csproj.GenerateResource.Cache
+E:\C#\Forms\TrabalhoemGrupo_Armas\TrabalhoemGrupo_Armas\obj\Debug\TrabalhoemGrupo_Armas.exe
+E:\C#\Forms\TrabalhoemGrupo_Armas\TrabalhoemGrupo_Armas\obj\Debug\TrabalhoemGrupo_Armas.pdb
