@@ -1,0 +1,9 @@
+C:\Users\AlunoLU\Desktop\BoloDeCenoura\BoloDeCenoura\bin\Debug\BoloDeCenoura.exe.config
+C:\Users\AlunoLU\Desktop\BoloDeCenoura\BoloDeCenoura\bin\Debug\BoloDeCenoura.exe
+C:\Users\AlunoLU\Desktop\BoloDeCenoura\BoloDeCenoura\bin\Debug\BoloDeCenoura.pdb
+C:\Users\AlunoLU\Desktop\BoloDeCenoura\BoloDeCenoura\obj\Debug\BoloDeCenoura.csprojResolveAssemblyReference.cache
+C:\Users\AlunoLU\Desktop\BoloDeCenoura\BoloDeCenoura\obj\Debug\BoloDeCenoura.Form1.resources
+C:\Users\AlunoLU\Desktop\BoloDeCenoura\BoloDeCenoura\obj\Debug\BoloDeCenoura.Properties.Resources.resources
+C:\Users\AlunoLU\Desktop\BoloDeCenoura\BoloDeCenoura\obj\Debug\BoloDeCenoura.csproj.GenerateResource.Cache
+C:\Users\AlunoLU\Desktop\BoloDeCenoura\BoloDeCenoura\obj\Debug\BoloDeCenoura.exe
+C:\Users\AlunoLU\Desktop\BoloDeCenoura\BoloDeCenoura\obj\Debug\BoloDeCenoura.pdb
