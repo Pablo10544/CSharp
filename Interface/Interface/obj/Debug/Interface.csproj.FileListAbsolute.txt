@@ -1,0 +1,9 @@
+C:\Users\AlunoLU\Desktop\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\AlunoLU\Desktop\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\AlunoLU\Desktop\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\AlunoLU\Desktop\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\AlunoLU\Desktop\Interface\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\AlunoLU\Desktop\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\AlunoLU\Desktop\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\AlunoLU\Desktop\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\AlunoLU\Desktop\Interface\Interface\obj\Debug\Interface.pdb
