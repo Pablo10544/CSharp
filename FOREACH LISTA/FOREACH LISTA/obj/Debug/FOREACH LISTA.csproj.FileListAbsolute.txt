@@ -1,0 +1,9 @@
+C:\Users\AlunoLU\Desktop\pesadelo\FOREACH LISTA\FOREACH LISTA\bin\Debug\FOREACH LISTA.exe.config
+C:\Users\AlunoLU\Desktop\pesadelo\FOREACH LISTA\FOREACH LISTA\bin\Debug\FOREACH LISTA.exe
+C:\Users\AlunoLU\Desktop\pesadelo\FOREACH LISTA\FOREACH LISTA\bin\Debug\FOREACH LISTA.pdb
+C:\Users\AlunoLU\Desktop\pesadelo\FOREACH LISTA\FOREACH LISTA\obj\Debug\FOREACH LISTA.csprojResolveAssemblyReference.cache
+C:\Users\AlunoLU\Desktop\pesadelo\FOREACH LISTA\FOREACH LISTA\obj\Debug\FOREACH_LISTA.Form1.resources
+C:\Users\AlunoLU\Desktop\pesadelo\FOREACH LISTA\FOREACH LISTA\obj\Debug\FOREACH_LISTA.Properties.Resources.resources
+C:\Users\AlunoLU\Desktop\pesadelo\FOREACH LISTA\FOREACH LISTA\obj\Debug\FOREACH LISTA.csproj.GenerateResource.Cache
+C:\Users\AlunoLU\Desktop\pesadelo\FOREACH LISTA\FOREACH LISTA\obj\Debug\FOREACH LISTA.exe
+C:\Users\AlunoLU\Desktop\pesadelo\FOREACH LISTA\FOREACH LISTA\obj\Debug\FOREACH LISTA.pdb
