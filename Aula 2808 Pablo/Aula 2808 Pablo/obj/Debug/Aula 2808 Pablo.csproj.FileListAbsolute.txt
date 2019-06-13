@@ -1,0 +1,9 @@
+C:\Users\AlunoLU\Desktop\Aula 2808 Pablo\Aula 2808 Pablo\bin\Debug\Aula 2808 Pablo.exe.config
+C:\Users\AlunoLU\Desktop\Aula 2808 Pablo\Aula 2808 Pablo\obj\Debug\Aula 2808 Pablo.csprojResolveAssemblyReference.cache
+C:\Users\AlunoLU\Desktop\Aula 2808 Pablo\Aula 2808 Pablo\obj\Debug\Aula_2808_Pablo.Form1.resources
+C:\Users\AlunoLU\Desktop\Aula 2808 Pablo\Aula 2808 Pablo\obj\Debug\Aula_2808_Pablo.Properties.Resources.resources
+C:\Users\AlunoLU\Desktop\Aula 2808 Pablo\Aula 2808 Pablo\obj\Debug\Aula 2808 Pablo.csproj.GenerateResource.Cache
+C:\Users\AlunoLU\Desktop\Aula 2808 Pablo\Aula 2808 Pablo\bin\Debug\Aula 2808 Pablo.exe
+C:\Users\AlunoLU\Desktop\Aula 2808 Pablo\Aula 2808 Pablo\bin\Debug\Aula 2808 Pablo.pdb
+C:\Users\AlunoLU\Desktop\Aula 2808 Pablo\Aula 2808 Pablo\obj\Debug\Aula 2808 Pablo.exe
+C:\Users\AlunoLU\Desktop\Aula 2808 Pablo\Aula 2808 Pablo\obj\Debug\Aula 2808 Pablo.pdb
