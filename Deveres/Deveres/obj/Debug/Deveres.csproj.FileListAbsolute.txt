@@ -1,0 +1,28 @@
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Deveres\Deveres\bin\Debug\Deveres.exe.config
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Deveres\Deveres\bin\Debug\Deveres.exe
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Deveres\Deveres\bin\Debug\Deveres.pdb
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Deveres\Deveres\obj\Debug\Deveres.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Deveres\Deveres\obj\Debug\Deveres.Properties.Resources.resources
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Deveres\Deveres\obj\Debug\Deveres.csproj.GenerateResource.Cache
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Deveres\Deveres\obj\Debug\Deveres.exe
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Deveres\Deveres\obj\Debug\Deveres.pdb
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Deveres\Deveres\obj\Debug\Deveres.SubjectCreate.resources
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Deveres\Deveres\obj\Debug\Deveres.SubjectsForm.resources
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Deveres\Deveres\obj\Debug\Deveres.AddHomework.resources
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Deveres\Deveres\obj\Debug\Deveres.Homeworks.resources
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Deveres\Deveres\obj\Debug\Deveres.EditCreatedSubjectsForm.resources
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Deveres\Deveres\obj\Debug\Deveres.LoginForm.resources
+E:\Deveres\Deveres\bin\Debug\Deveres.exe.config
+E:\Deveres\Deveres\obj\Debug\Deveres.exe
+E:\Deveres\Deveres\obj\Debug\Deveres.pdb
+E:\Deveres\Deveres\bin\Debug\Deveres.exe
+E:\Deveres\Deveres\bin\Debug\Deveres.pdb
+E:\Deveres\Deveres\obj\Debug\Deveres.csprojResolveAssemblyReference.cache
+E:\Deveres\Deveres\obj\Debug\Deveres.AddHomework.resources
+E:\Deveres\Deveres\obj\Debug\Deveres.EditCreatedSubjectsForm.resources
+E:\Deveres\Deveres\obj\Debug\Deveres.SubjectsForm.resources
+E:\Deveres\Deveres\obj\Debug\Deveres.Homeworks.resources
+E:\Deveres\Deveres\obj\Debug\Deveres.LoginForm.resources
+E:\Deveres\Deveres\obj\Debug\Deveres.Properties.Resources.resources
+E:\Deveres\Deveres\obj\Debug\Deveres.SubjectCreate.resources
+E:\Deveres\Deveres\obj\Debug\Deveres.csproj.GenerateResource.Cache
